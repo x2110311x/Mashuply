@@ -104,3 +104,4 @@ dist
 .tern-port
 functions/firebase.js.sample
 .firebase/*.cache
+firebase_src/.firebaserc
